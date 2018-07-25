@@ -1,4 +1,6 @@
 # RubyGems
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Frubygems.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Frubygems?ref=badge_shield)
+
 
 RubyGems is a package management framework for Ruby.
 
@@ -53,3 +55,7 @@ for letting the RubyGems team know about bugs or problems you're having is
 ### Bundler Compatibility
 
 See http://bundler.io/compatibility for known issues.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Frubygems.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Frubygems?ref=badge_large)
